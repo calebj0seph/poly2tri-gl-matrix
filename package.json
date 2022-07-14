@@ -1,0 +1,22 @@
+{
+  "name": "poly2tri-gl-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebj0seph/poly2tri-gl-matrix.git"
+  },
+  "author": "Caleb Joseph",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/calebj0seph/poly2tri-gl-matrix/issues"
+  },
+  "homepage": "https://github.com/calebj0seph/poly2tri-gl-matrix#readme",
+  "dependencies": {
+    "gl-matrix": "^3.4.3"
+  }
+}
